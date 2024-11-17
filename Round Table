@@ -1,0 +1,7 @@
+import math
+
+x = int(input().strip())
+
+total_ways = math.factorial(x) * 1
+
+print(total_ways)
